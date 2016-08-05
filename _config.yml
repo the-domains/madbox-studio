@@ -1,0 +1,14 @@
+layout_spectrum: 0.9781982989516109
+typography_spectrum: 0.9912518612109125
+color:
+  brandStrength: 0.35254054912365973
+  lightness: 0.5520046551246196
+  saturation: 0.6922067364212126
+  rhythmicContrast: 0.5125871060881764
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Madbox Studio
